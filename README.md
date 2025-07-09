@@ -1,5 +1,7 @@
 ## Savannah Informatics
 
+[Postman](https://castify-studio.postman.co/workspace/castify~f16c39de-a255-419a-b177-289e5ade1a51/collection/6996793-31ad115a-82b3-4b7a-9f20-1fe8a4f2e60a?action=share&source=copy-link&creator=6996793)
+
 ### ERD
 
 ![erd](./public/erd.png)
